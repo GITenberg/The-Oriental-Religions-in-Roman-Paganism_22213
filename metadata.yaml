@@ -1,0 +1,30 @@
+_repo: The-Oriental-Religions-in-Roman-Paganism_22213
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cumont, Franz Valery Marie
+    birthdate: 1868
+    deathdate: 1947
+    gutenberg_agent_id: '25183'
+    url: http://www.gutenberg.org/2009/agents/25183
+    wikipedia: http://en.wikipedia.org/wiki/Franz_Cumont
+description: ''
+gutenberg_issued: '2007-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22213'
+  lccn: '11024148'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paganism -- Rome'
+- !lcsh 'Religions'
+- !lcc 'BL'
+- !lcsh 'Rome -- Religion'
+title: The Oriental Religions in Roman Paganism
+url: http://www.gutenberg.org/ebooks/22213
